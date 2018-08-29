@@ -1,0 +1,9 @@
+.idea
+.tern-port
+.DS_Store
+CMakeLists.txt
+cmake-build-debug/
+node_modules/
+*.log
+/build
+.truffle-solidity-loader
