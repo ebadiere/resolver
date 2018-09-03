@@ -23,7 +23,7 @@ export default class Resolver{
 
     async getFromIpfs(did){
         const parsedDid = this.parse(did);
-        return await this.ipfsAgent.catJSONData(parsedDid.id);
+        return await this.ipfsAgent.catEncodedData(parsedDid.id);
     }
 
 
