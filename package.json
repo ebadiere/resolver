@@ -10,7 +10,7 @@
   "author": "Eric Badiere",
   "license": "ISC",
   "dependencies": {
-    "clear-me-lib": "git+https://github.com/clear-me/clear-me-lib.git",
+    "clear-me-lib": "git+https://github.com/ebadiere/lib",
     "ipfs-api": "^18.2.1",
     "jsonwebtoken": "^8.2.1"
   },
